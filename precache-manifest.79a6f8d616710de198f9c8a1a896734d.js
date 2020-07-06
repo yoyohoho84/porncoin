@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e170b81a74a97e763d4e7560b9f6c6a4",
+    "revision": "4eed169e939d710ef9b8dd76eb505f52",
     "url": "./index.html"
   },
   {
-    "revision": "bb5489d423df14301ee4",
+    "revision": "08591c38d867ad43cda8",
     "url": "./static/css/2.d0a510e7.chunk.css"
   },
   {
-    "revision": "5eb3bd60390d3521a3c8",
-    "url": "./static/css/main.26d81a3c.chunk.css"
+    "revision": "09577afccededccb5759",
+    "url": "./static/css/main.5f314d24.chunk.css"
   },
   {
-    "revision": "bb5489d423df14301ee4",
-    "url": "./static/js/2.ac62658e.chunk.js"
+    "revision": "08591c38d867ad43cda8",
+    "url": "./static/js/2.3a3b0d43.chunk.js"
   },
   {
     "revision": "c04130d8b6692f26b622ca7bd7d5f6b5",
-    "url": "./static/js/2.ac62658e.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.3a3b0d43.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5eb3bd60390d3521a3c8",
-    "url": "./static/js/main.367827a0.chunk.js"
+    "revision": "09577afccededccb5759",
+    "url": "./static/js/main.ac1124e7.chunk.js"
   },
   {
     "revision": "b562a17de94e28e650bd",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "336d6e3698e5dc0b6b09e39cfa957cbf",
     "url": "./static/media/PornCoin45pxNew.336d6e36.svg"
+  },
+  {
+    "revision": "83aaa5ddd297db41bc42080e171c2b57",
+    "url": "./static/media/adventure.83aaa5dd.png"
   },
   {
     "revision": "91d7f1384e5b64bfe7c530c327f0304e",
