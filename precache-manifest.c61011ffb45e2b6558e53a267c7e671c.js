@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9ece85e94aa7a2d9a99b8d8432c2220",
+    "revision": "69b8dcaad4582f2ccae48ab134f10949",
     "url": "./index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/2.d0a510e7.chunk.css"
   },
   {
-    "revision": "595037025ddf615c096a",
-    "url": "./static/css/main.709b1ccf.chunk.css"
+    "revision": "e15e66449d77f7de3bf5",
+    "url": "./static/css/main.2b671382.chunk.css"
   },
   {
     "revision": "649f0f022f146c3e82bd",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.05999e7d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "595037025ddf615c096a",
-    "url": "./static/js/main.4dfb99f1.chunk.js"
+    "revision": "e15e66449d77f7de3bf5",
+    "url": "./static/js/main.2e7c9ec6.chunk.js"
   },
   {
     "revision": "b562a17de94e28e650bd",
@@ -44,10 +44,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/billie.91d7f138.png"
   },
   {
-    "revision": "19da893f4dab35d4429a0aff3bc682b3",
-    "url": "./static/media/bronzeBox.19da893f.svg"
-  },
-  {
     "revision": "2f4699a69baa22b5faa4543b48e9a008",
     "url": "./static/media/dataCenter.2f4699a6.svg"
   },
@@ -58,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "969059b52b03f5a93d0cac73deb7da34",
     "url": "./static/media/films.969059b5.png"
-  },
-  {
-    "revision": "6a30299509298ddd9f66c25c267699f0",
-    "url": "./static/media/goldBox.6a302995.svg"
   },
   {
     "revision": "c1c88d4e05cbef94bf5c85e0368e034c",
@@ -84,10 +76,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/malibu.4f53c097.png"
   },
   {
-    "revision": "6110850b4e5c2c31791c6f6e7ebf5dd7",
-    "url": "./static/media/mysticalBox.6110850b.svg"
-  },
-  {
     "revision": "beb716f3745f27686b47f512499d2216",
     "url": "./static/media/naruto.beb716f3.png"
   },
@@ -106,10 +94,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "aeacee8cab5c3595a04152146840e009",
     "url": "./static/media/serverDC.aeacee8c.svg"
-  },
-  {
-    "revision": "e5f3c6ef3e829d10e98db5ad69380a84",
-    "url": "./static/media/silverBox.e5f3c6ef.svg"
   },
   {
     "revision": "625a1d19ff731c8b69ac644ee410e76a",
